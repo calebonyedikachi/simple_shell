@@ -320,5 +320,6 @@ $
 
 ## Authors ##
 
-👤 **Yonas Leykun**
+👤  Caleb Onyedikachi Ugwoke <calebugwoke@gmail.com> and
+    Mary-Queen Uchechukwu <kweenzy80@yahoo.com>
 
